@@ -1,0 +1,15 @@
+Good work all around.
+Nice formatting, straight-forward code, 
+  good use of JavaDoc comments.
+  
+One minor irritation:  Spacing on your for loop (in all of the methods).
+Standard practice is to use a single space between words and symbols.
+It makes the code more readable for the next person who works with it.
+
+You wrote
+     for(int i=1; i < arrayData.length;i++)
+Better:
+     for (int i = 1; i < arrayData.length; i++)
+
+Overall, very good work.
+10/10
